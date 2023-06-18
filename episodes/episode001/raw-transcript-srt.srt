@@ -1,6 +1,6 @@
 1
 00:00:00,000 --> 00:00:04,880
-Welcome to the Mycelium Network Podcast, a podcast all about early stage web
+Welcome to the Mycelium Network Podcast, a podcast all about early-stage web
 
 2
 00:00:04,880 --> 00:00:08,320
